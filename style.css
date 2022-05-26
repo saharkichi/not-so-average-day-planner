@@ -1,0 +1,27 @@
+.inputText{
+    background: #eee;
+    height: 80px;
+    border: none;
+    border-radius: 0;
+    border-left: rgba(56, 255, 103, 0.467);
+    padding: 10px;
+
+}
+/*background colour */
+.body{
+    background: #800ff8;
+}
+.btn{
+    height: 80px;
+}
+.row{
+    margin-bottom: 2px;
+}
+.hour{
+    border-top: 1px dotted rgb(4, 255, 238);
+    padding-top: 30px;
+}
+.inputcontent{
+    margin-left: -20px;
+    margin-right: -28px;
+}
